@@ -1,0 +1,23 @@
+{
+  "name": "makefun-cbbtc-base-quant-bot",
+  "version": "1.0.0",
+  "description": "Automated 1-minute On-Chain Paper Trading Bot for cbBTC/USDC on Base Network",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "base",
+    "cbbtc",
+    "paper-trading",
+    "quant",
+    "defi",
+    "make.fun"
+  ],
+  "author": "Quantitative Trading Agent",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5"
+  }
+}
